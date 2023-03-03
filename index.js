@@ -1,4 +1,4 @@
-const R = require('ramda');
+// const R = require('ramda');
 let input = [
   { firstname: 'first1', lastname: 'last1', birthDate: 1 },
   { firstname: 'first1', lastname: 'last1', birthDate: 1 },
